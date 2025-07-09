@@ -1,0 +1,1362 @@
+[
+  {
+    "weight_value": "4950",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "4950",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3002.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "0700",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "0700",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3003.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "1700",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "1700",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3006.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3008.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3009.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "2020",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "2020",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3013.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "4950",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "4950",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3014.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3015.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "4400",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "4400",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3017.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "900",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "900",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3019.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "1900",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "1900",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3021.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "3300",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "3300",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3022.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3023.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3024.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3026.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "6.880",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "6.880",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3028.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "1180",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "1180",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3029.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "550",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "550",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3030.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3031.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "11500",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "11500",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3032.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3037.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "0.100",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "0.100",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3038.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3045.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "0.000",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "0.000",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3046.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3047.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "20400",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "20400",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3051.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3053.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "5000",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "5000",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3057.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "3300",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "3300",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3058.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "0503",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "0503",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3059.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "16950",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "16950",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3060.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "3750",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "3750",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3061.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "492",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": ".492 kg",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3064.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "0800",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "0800",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3066.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "10.00",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "10.00",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3067.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3068.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "1050",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "1050",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3069.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "5500",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "5500",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3070.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "26.179",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "26.179",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3077.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "27700",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "27700",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3080.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "47150",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "47150",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3081.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "2770",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "2770",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3090.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "21600",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "21600",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3091.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "2800",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "2800",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3095.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3097.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "45.050",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "45.050",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3102.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "8.85900",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "8.85900",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3104.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3107.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "88.750",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "88.750",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3108.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3111.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3112.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "7800",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "7800",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3115.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "0.500",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "0.500",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3118.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "28050",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "28050",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3120.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "34500",
+    "unit": null,
+    "confidence": "medium",
+    "display_text": "34500",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3124.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "13350",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "13350",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3125.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "18488",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "18488",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3127.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "1850",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "1850",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3129.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3130.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "14600",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "14600",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3134.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3137.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "19500",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "19500",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3140.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3145.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "42.550",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "42.550",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3148.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "11650",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "11650",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3149.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "11.00",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "11.00",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3155.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "3058",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "3058",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3157.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3158.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "1100",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "1100",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3159.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3161.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "9.350",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "9.350",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3165.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3167.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "1409",
+    "unit": "g",
+    "confidence": "high",
+    "display_text": "1409",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3168.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3170.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3174.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "10650",
+    "unit": "g",
+    "confidence": "high",
+    "display_text": "10650",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3175.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3179.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3182.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "1150",
+    "unit": "g",
+    "confidence": "high",
+    "display_text": "1150",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3183.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "11109",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "11109",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3186.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3188.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "20000",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "20000",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3194.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "21900",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "21900",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3195.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "2550",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "2550",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3199.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3200.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "4950",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "4950",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3002.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "0.700",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "0.700",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3003.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "15700",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "15700",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3006.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3008.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3009.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "2020",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "2020",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3013.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "4950",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "4950",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3014.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3015.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "4400",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "4400",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3017.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "900",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "900",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3019.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "1900",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "1900",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3021.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "3300",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "3300",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3022.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3023.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3024.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3026.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "6.880",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "6.880",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3028.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "1180",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "1180",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3029.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "550",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "550",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3030.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3031.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "11500",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "11500",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3032.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3037.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "0.100",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "0.100",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3038.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3045.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "0.800",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "0.800",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3046.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3047.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "20400",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "20400",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3051.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3053.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "5000",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "5000",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3057.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "3300",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "3300",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3058.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "0503",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "0503",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3059.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "16950",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "16950",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3060.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "3750",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "3750",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3061.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "492.7",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "492.70",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3064.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "0800",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "0800",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3066.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "10.00",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "10.00",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3067.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3068.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "1050",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "1050",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3069.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "15.900",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "15.900",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3070.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "26.179",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "26.179",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3077.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "22750",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "22750",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3080.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "47150",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "47150",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3081.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "2770",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "2770",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3090.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "21600",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "21600",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3091.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "2800",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "2800",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3095.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3097.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "45050",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "45050",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3102.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "8.85900",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "8.85900 kg",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3104.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3107.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "88.750",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "88.750",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3108.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3111.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3112.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "1700",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "1700",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3115.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "1500",
+    "unit": "g",
+    "confidence": "high",
+    "display_text": "1500",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3118.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "28050",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "28050",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3120.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "34500",
+    "unit": null,
+    "confidence": "medium",
+    "display_text": "34500",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3124.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "13350",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "13350",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3125.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "18488",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "18488",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3127.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "1850",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "1850",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3129.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3130.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "14600",
+    "unit": "Kg",
+    "confidence": "high",
+    "display_text": "14600",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3134.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3137.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "19500",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "19500",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3140.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3145.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "42.550",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "42.550",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3148.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "11650",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "11650",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3149.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "11.00",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "11.00",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3155.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "3058",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "3058",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3157.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3158.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "1100",
+    "unit": "kg",
+    "confidence": "high",
+    "display_text": "1100",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3159.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3161.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "9.350",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "9.350",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3165.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3167.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "1409",
+    "unit": "g",
+    "confidence": "high",
+    "display_text": "1409",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3168.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3170.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3174.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "10650",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "10650",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3175.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3179.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3182.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "1750",
+    "unit": "g",
+    "confidence": "high",
+    "display_text": "1750",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3183.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "11109",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "11109",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3186.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3188.jpg",
+    "status": "no_weight_detected"
+  },
+  {
+    "weight_value": "20000",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "20000",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3194.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "21900",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "21900",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3195.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": "2550",
+    "unit": null,
+    "confidence": "high",
+    "display_text": "2550",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3199.jpg",
+    "status": "success"
+  },
+  {
+    "weight_value": null,
+    "unit": null,
+    "confidence": "none",
+    "display_text": "not_readable",
+    "image_path": "c:\\Users\\vmcsa\\Downloads\\Gemini_Api\\Copy of Image_3200.jpg",
+    "status": "no_weight_detected"
+  }
+]
